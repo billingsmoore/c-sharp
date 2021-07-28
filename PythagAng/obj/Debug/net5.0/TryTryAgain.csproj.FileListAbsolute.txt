@@ -1,0 +1,16 @@
+/home/jbm/Desktop/c#/TryTryAgain/bin/Debug/net5.0/TryTryAgain
+/home/jbm/Desktop/c#/TryTryAgain/bin/Debug/net5.0/TryTryAgain.deps.json
+/home/jbm/Desktop/c#/TryTryAgain/bin/Debug/net5.0/TryTryAgain.runtimeconfig.json
+/home/jbm/Desktop/c#/TryTryAgain/bin/Debug/net5.0/TryTryAgain.runtimeconfig.dev.json
+/home/jbm/Desktop/c#/TryTryAgain/bin/Debug/net5.0/TryTryAgain.dll
+/home/jbm/Desktop/c#/TryTryAgain/bin/Debug/net5.0/ref/TryTryAgain.dll
+/home/jbm/Desktop/c#/TryTryAgain/bin/Debug/net5.0/TryTryAgain.pdb
+/home/jbm/Desktop/c#/TryTryAgain/obj/Debug/net5.0/TryTryAgain.csproj.AssemblyReference.cache
+/home/jbm/Desktop/c#/TryTryAgain/obj/Debug/net5.0/TryTryAgain.GeneratedMSBuildEditorConfig.editorconfig
+/home/jbm/Desktop/c#/TryTryAgain/obj/Debug/net5.0/TryTryAgain.AssemblyInfoInputs.cache
+/home/jbm/Desktop/c#/TryTryAgain/obj/Debug/net5.0/TryTryAgain.AssemblyInfo.cs
+/home/jbm/Desktop/c#/TryTryAgain/obj/Debug/net5.0/TryTryAgain.csproj.CoreCompileInputs.cache
+/home/jbm/Desktop/c#/TryTryAgain/obj/Debug/net5.0/TryTryAgain.dll
+/home/jbm/Desktop/c#/TryTryAgain/obj/Debug/net5.0/ref/TryTryAgain.dll
+/home/jbm/Desktop/c#/TryTryAgain/obj/Debug/net5.0/TryTryAgain.pdb
+/home/jbm/Desktop/c#/TryTryAgain/obj/Debug/net5.0/TryTryAgain.genruntimeconfig.cache

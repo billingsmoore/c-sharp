@@ -1,0 +1,16 @@
+/home/jbm/Desktop/c#/NotBlackJack/bin/Debug/net5.0/NotBlackJack
+/home/jbm/Desktop/c#/NotBlackJack/bin/Debug/net5.0/NotBlackJack.deps.json
+/home/jbm/Desktop/c#/NotBlackJack/bin/Debug/net5.0/NotBlackJack.runtimeconfig.json
+/home/jbm/Desktop/c#/NotBlackJack/bin/Debug/net5.0/NotBlackJack.runtimeconfig.dev.json
+/home/jbm/Desktop/c#/NotBlackJack/bin/Debug/net5.0/NotBlackJack.dll
+/home/jbm/Desktop/c#/NotBlackJack/bin/Debug/net5.0/ref/NotBlackJack.dll
+/home/jbm/Desktop/c#/NotBlackJack/bin/Debug/net5.0/NotBlackJack.pdb
+/home/jbm/Desktop/c#/NotBlackJack/obj/Debug/net5.0/NotBlackJack.csproj.AssemblyReference.cache
+/home/jbm/Desktop/c#/NotBlackJack/obj/Debug/net5.0/NotBlackJack.GeneratedMSBuildEditorConfig.editorconfig
+/home/jbm/Desktop/c#/NotBlackJack/obj/Debug/net5.0/NotBlackJack.AssemblyInfoInputs.cache
+/home/jbm/Desktop/c#/NotBlackJack/obj/Debug/net5.0/NotBlackJack.AssemblyInfo.cs
+/home/jbm/Desktop/c#/NotBlackJack/obj/Debug/net5.0/NotBlackJack.csproj.CoreCompileInputs.cache
+/home/jbm/Desktop/c#/NotBlackJack/obj/Debug/net5.0/NotBlackJack.dll
+/home/jbm/Desktop/c#/NotBlackJack/obj/Debug/net5.0/ref/NotBlackJack.dll
+/home/jbm/Desktop/c#/NotBlackJack/obj/Debug/net5.0/NotBlackJack.pdb
+/home/jbm/Desktop/c#/NotBlackJack/obj/Debug/net5.0/NotBlackJack.genruntimeconfig.cache
